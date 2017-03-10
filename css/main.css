@@ -61,9 +61,10 @@ header .block .logo {
   color: white;
   font-size: 3em;
   text-shadow: 1px 1px 1px #000;
+  text-decoration: none;
 }
 header .block .logo:hover {
-  text-decoration: underline;
+  text-decoration: none;
 }
 header .block h2 {
   margin-bottom: 15px;
