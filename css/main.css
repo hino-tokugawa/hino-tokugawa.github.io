@@ -58,6 +58,12 @@ header .block {
 header .block .logo {
   display: inline-block;
   margin-bottom: 70px;
+  color: white;
+  font-size: 3em;
+  text-shadow: 1px 1px 1px #000;
+}
+header .block .logo:hover {
+  text-decoration: underline;
 }
 header .block h2 {
   margin-bottom: 15px;
